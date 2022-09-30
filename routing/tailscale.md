@@ -27,8 +27,9 @@
 > **Warning**  
 > It's always best practice to inspect unknown install scripts. You're not gonna do it, but there ... I warned ya. ¯\\\_(ツ)\_/¯
 
-
-
+## Manual Install
+> **Note**  
+> this is tdb ...
 
 
 
