@@ -25,7 +25,7 @@
 | fetch | `sh -c "$(fetch -o - https://raw.githubusercontent.com/x86txt/bashFunctions/main/routing/tailscale-install.sh)"` |
 
 > **Warning**  
-> It's always best practice to inspect unknown install scripts. You're not gonna do it, but there - I warned ya.
+> It's always best practice to inspect unknown install scripts. You're not gonna do it, but there - I warned ya. ¯\\\_(ツ)\_/¯
 
 
 
