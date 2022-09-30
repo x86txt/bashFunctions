@@ -10,12 +10,14 @@
 <br />
 <div align="center">
   <a href="https://tailscale.com/">
-    <img src="https://cdn.secunit.io/media/images/tailscale/tailscale-logo.png" alt="Logo" width="521" height="118"></a>
+    <img src="https://cdn.secunit.io/media/images/tailscale/tailscale-logo.png" alt="Tailscale" width="521" height="118"></a>
 </div>
 <br />
-
-
-
+<h3 align="center"><b>How-To</b>: Create an active/passive Tailscale Network Router on Linux</h3>
+<br />
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/x86txt/bashFunctions/main/routing/tailscale-install.sh)"
+```
 
 
 
