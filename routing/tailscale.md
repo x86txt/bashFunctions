@@ -25,6 +25,7 @@
 ### Prerequisites
 * Some flavor of Debian or Ubuntu, although other flavors should work with minimal changes.
 * A working Tailscale mesh network - i.e. you should be able to ping all your nodes from the box you want to be your LAN router.
+* A single functional [Tailscale Subnet Router](https://tailscale.com/kb/1019/subnets/).
 * An general understanding of advanced networking concepts - like virtual IPs, VRRP, multicast - if someting goes wrong.
 * curl or wget should be installed
 * root or su/sudo access
