@@ -6,9 +6,9 @@
 </div>
 <br />
 
-## Create an active/passive Tailscale Network Router on Linux
+# Create an active/passive Tailscale Network Router on Linux
 
-### Getting Started
+## Getting Started
 
 ### Prerequisites
 * Some flavor of Debian or Ubuntu, although other flavors should work with minimal changes.
