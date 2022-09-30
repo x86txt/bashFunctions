@@ -6,6 +6,18 @@
 </div>
 <br />
 
+<div align="center">
+
+[![Product Name Screen Shot][product-screenshot]](https://tailscale.com)
+
+</div>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # Create an active/passive Tailscale Network Router on Linux
 
 ## Getting Started
@@ -31,33 +43,17 @@
 > **Note**  
 > this is tdb ...
 
-
-
-
-
-
-
-
-
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-[contributors-shield]: https://shields.secunit.io/github/contributors/x86txt/alphatheory.svg?style=for-the-badge
-[contributors-url]: https://github.com/x86txt/alphatheory/graphs/contributors
-[forks-shield]: https://shields.secunit.io/github/forks/x86txt/alphatheory.svg?style=for-the-badge
-[forks-url]: https://github.com/x86txt/alphatheory/network/members
-[stars-shield]: https://shields.secunit.io/github/stars/x86txt/alphatheory.svg?style=for-the-badge
-[stars-url]: https://github.com/x86txt/alphatheory/stargazers
-[issues-shield]: https://shields.secunit.io/github/issues/x86txt/alphatheory.svg?style=for-the-badge
-[issues-url]: https://github.com/x86txt/alphatheory/issues
+[contributors-shield]: https://shields.secunit.io/github/contributors/x86txt/bashFunctions.svg?style=for-the-badge
+[contributors-url]: https://github.com/x86txt/bashFunctions/graphs/contributors
+[forks-shield]: https://shields.secunit.io/github/forks/x86txt/bashFunctions.svg?style=for-the-badge
+[forks-url]: https://github.com/x86txt/bashFunctions/network/members
+[stars-shield]: https://shields.secunit.io/github/stars/x86txt/bashFunctions.svg?style=for-the-badge
+[stars-url]: https://github.com/x86txt/bashFunctions/stargazers
+[issues-shield]: https://shields.secunit.io/github/issues/x86txt/bashFunctions.svg?style=for-the-badge
+[issues-url]: https://github.com/x86txt/bashFunctions/issues
 [license-shield]: https://shields.secunit.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge
 [license-url]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [linkedin-shield]: https://shields.secunit.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/company/alpha-theory-llc
+[linkedin-url]: hhttps://www.linkedin.com/in/mevanssecurity/
 [product-screenshot]: https://cdn.secunit.io/media/images/tailscale/tailscale-network-diagram.svg
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
